@@ -1,0 +1,5 @@
+You’re given a m x m matrix. 
+Write a function to rotate submatrix within the matrix by 90degree clock wise. 
+Function takes x and y as starting row and column coordinate of matrix and N as size of submatrix as argument. 
+Inplace rotation was required. 
+I gave brute force I.e. With extra memory.
